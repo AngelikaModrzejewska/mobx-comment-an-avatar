@@ -1,18 +1,6 @@
-# flying-animated-balloons
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-
-## Used techniques
-
-* javascript (mousemove-event)
-* CSS
-
-Pictures: https://pixabay.com/
-
-
 # mobx-comment-an-avatar
 
-This project was bootstrapped with [Create React App].
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Used techniques
 
@@ -20,6 +8,6 @@ This project was bootstrapped with [Create React App].
 * React Hooks
 * Sass
 
-Avatar API: ttps://rickandmortyapi.com
+Avatar API: https://rickandmortyapi.com
 
 
