@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * React and MobX library with decorators, Context API
 * React Hooks
-* Sass
+* Sass (npm package bem-css-modules - BEM class names generator for Webpack CSS modules)
 
 Avatar API: https://rickandmortyapi.com
 
