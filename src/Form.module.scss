@@ -1,0 +1,20 @@
+.form {
+
+    &__label {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.5em;
+        color: #264653;
+    }
+
+    &__input {
+        padding-left: 5px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 2em;
+        border: 3px solid #e76f51;
+        color: #2a9d8f;
+        outline: none;
+    }
+}

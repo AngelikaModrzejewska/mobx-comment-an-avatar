@@ -1,0 +1,27 @@
+.picture {
+    border: 3px solid #2a9d8f;
+    padding: 10px;
+    align-self: flex-start;
+
+    &__img {
+        display: block;
+    }
+
+    &__button {
+        display: block;
+        margin: 10px auto 0;
+        padding: 10px 25px;
+        border-style: none;
+        background-color: #f4a261;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        color: #fff;
+        cursor: pointer;
+        outline: none;
+
+        &:hover {
+            background-color: #e76f51;
+        }
+    }
+}
