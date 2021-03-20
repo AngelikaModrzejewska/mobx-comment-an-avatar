@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Used techniques
 
-* React and MobX library with decorators, Context API
+* React and MobX library with decorators
 * React Hooks
 * Sass (npm package bem-css-modules - BEM class names generator for Webpack CSS modules)
 
