@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Used techniques
 
-* React and MobX library with decorators
+* React and MobX library with decorators, two stores: for comments and for getting the avatar picture
 * React Hooks
 * Sass (npm package bem-css-modules - BEM class names generator for Webpack CSS modules)
 
