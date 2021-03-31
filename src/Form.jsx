@@ -32,7 +32,7 @@ const Form = () => {
         <br/>
         <input
           className={style('input')}
-          maxlength="25"
+          maxLength="25"
           onChange={handleOnChange}
           type="text"
           value={inputData}
